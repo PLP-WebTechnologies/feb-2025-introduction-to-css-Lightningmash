@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+    padding: 10px;
+}
+
+#main-title {
+    color: darkblue;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+}
+
+.highlight {
+    background-color: #e0f7fa;
+    padding: 15px;
+    border: 1px solid #00acc1;
+    margin-bottom: 20px;
+}
+
+.styled-image {
+    border: 5px solid #0097a7;
+    padding: 10px;
+    margin-top: 20px;
+    display: block;
+    max-width: 100%;
+}
